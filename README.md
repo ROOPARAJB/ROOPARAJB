@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying at **MAHENDRA ENGINEERING COLLEGE**
 
-- 🌱 I’m currently learning **PRACTICAL ETHICAL HACKING**
+- 🌱 I’m currently learning **CERTIFIED ETHICAL HACKING**
 
 - 💬 Ask me about **Networking,cybersecurity**
 
