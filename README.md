@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ROOPARAJ B</h1>
-<h3 align="center">CYBER SECURITY PROFESSIONAL</h3>
+<h3 align="center">Cybersecurity Enthusiast</h3>
 🔭 I've completed my studies at MAHENDRA ENGINEERING COLLEGE <br>
 🌱 I'm currently pursuing CERTIFIED ETHICAL HACKING <br>
 💬 Ask me about Networking, Cybersecurity, Penetration Testing <br>
